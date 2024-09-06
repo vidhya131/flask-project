@@ -24,3 +24,5 @@ Thumbs.db
 
 # custom files
 requirements.txt
+# ignore the api testing file - used only for invoking the apis
+test-api.py  
